@@ -29,17 +29,10 @@ Esta é uma API simples desenvolvida em Node.js utilizando o framework Express e
 
 ## 📈 Estatísticas de GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=christopherfc&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
 
 ## 📫 Como me encontrar
 
-- 📧 Email: seu-email@dominio.com
-- 🌍 LinkedIn: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil)
-- 🧑‍💻 GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)
-- 📱 WhatsApp: [Seu WhatsApp](https://wa.me/seunumerodetelefone)
-
----
-
-### ⚡ Fato Interessante
-
-- Eu sou um grande fã de tecnologia e sempre busco aprender mais sobre novas ferramentas e tendências no desenvolvimento de software.
+- 📧 Email: christopher@famasmm.com
+- 🌍 LinkedIn: [linkedin.com/in/fernando-christopher-santos-silva-265819223](https://www.linkedin.com/in/fernando-christopher-santos-silva-265819223)
+- 🧑‍💻 GitHub: [github.com/christopherfc](https://github.com/christopherfc)
