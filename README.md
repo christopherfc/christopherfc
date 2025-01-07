@@ -1,3 +1,5 @@
+<img width="100%" height="auto" src="https://github.com/user-attachments/assets/d5a2fce9-5001-4637-94ba-6f5582923ede"/>
+
 # Olá, eu sou Fernando Christopher 👋
 
 Bem-vindo ao meu perfil do GitHub! Sou desenvolvedor e apaixonado por criar soluções tecnológicas inovadoras. Aqui você encontrará meus projetos, ferramentas e contribuições para a comunidade de código aberto.
